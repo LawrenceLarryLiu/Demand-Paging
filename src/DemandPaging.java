@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 @SuppressWarnings("unused")
-public class lab4 {
+public class DemandPaging {
 	// create needed variables
 	public static int machineSize;
 	public static int pageSize;
